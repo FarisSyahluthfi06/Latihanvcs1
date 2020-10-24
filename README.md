@@ -10,7 +10,7 @@
 
 * Download git terlebih dahulu,dengan link berikut :[click Here](https://git-scm.com)<br>
 
-![gitscm](foto/gitbash2.png)
+![gitscm](foto/gitbash.png)
 
 * setelah file terdownload silahkan lakukan instalasi dengan 
 referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)<br>
