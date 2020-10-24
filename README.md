@@ -23,7 +23,7 @@ mengetik syntax berikut : <br>
 
 `git --version` <br>
 
-![git version](foto/version.PNG) <br>
+![git version](foto/gitversion.png) <br>
 
 * jika muncul tampilan *git version*, berarti Git sudah
 *berhasil di install* dan bisa di *gunakan* Langkah pertama
