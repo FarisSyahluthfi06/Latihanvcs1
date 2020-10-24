@@ -34,7 +34,7 @@ dengan mengetikan syntax berikut : <br>
 
 `git commit --global user.email "masukin email anda"` <br>
 
-![Git Config](foto/username.png)
+
 
 * buat akun di *GitHub*,seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui 
 email yang sudah terdaftar.
