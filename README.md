@@ -60,7 +60,7 @@ membuat repository Latihanvcs1)`<br>
 
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :<br>
 
-![Hasil repository](foto/Hasil.PNG)
+![Hasil repository](foto/Hasil.png)
 
 * Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk me-remote repository Github pada GitBash Lokal. Bagaimana caranya? Langkah pertama kita harus menyalin link URL git kita di Github, dengan cara tekan tombol *Code* lalu klik Copy.<br>
 
