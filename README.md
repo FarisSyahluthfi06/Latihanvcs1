@@ -103,7 +103,7 @@ git commit <br>
 * Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
 git push <br>
 
-![Gitpush](foto/gitpush.PNG)
+![Gitpush](foto/GitPush.png)
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
