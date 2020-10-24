@@ -44,7 +44,7 @@ Repository seperti gambar dibawah ini : <br>
 *penjelasan*
 
 > * `Repository Name : (Silahkan isi nama repository yan diinginkan seperti contoh saya ingin
-membuat repository Latihanvcs3)`<br>
+membuat repository Latihanvcs1)`<br>
 
 > * `Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)`
 
@@ -56,7 +56,7 @@ membuat repository Latihanvcs3)`<br>
 
 > * `Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat Kemudian tekan tombol Create Repository untuk menyimpan` <br>
 
-![NAMA repositori](foto/Langka1.png)
+![NAMA repositori](foto/Langkah1.png)
 
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :<br>
 
