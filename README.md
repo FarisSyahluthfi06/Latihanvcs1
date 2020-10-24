@@ -80,7 +80,7 @@ https://github.com/FarisSyahluthfi06/Latihanvcs1.git <br>
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut :
 cd Latihanvcs3/ <br>
 
-![Gitcd](foto/cd.PNG)
+![Gitcd](foto/cd.png)
 
 * Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor *(Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : click here <br>
 
