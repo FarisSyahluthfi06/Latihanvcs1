@@ -73,9 +73,9 @@ membuat repository Latihanvcs1)`<br>
 Pop Up Command Prompt *(CMD)* akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax berikut :
 
 git clone [URL] pada contohnya, saya akan memasukan git clone
-https://github.com/shobahus1/Latihanvcs3.git <br>
+https://github.com/FarisSyahluthfi06/Latihanvcs1.git <br>
 
-![Gitnama](foto/gitclone.PNG)
+![Gitnama](foto/GitCloning.PNG)
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut :
 cd Latihanvcs3/ <br>
