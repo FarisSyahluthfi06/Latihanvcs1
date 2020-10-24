@@ -78,7 +78,7 @@ https://github.com/FarisSyahluthfi06/Latihanvcs1.git <br>
 ![Gitnama](foto/GitCloning.PNG)
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal, kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut :
-cd Latihanvcs3/ <br>
+cd Latihanvcs/ <br>
 
 ![Gitcd](foto/cd.png)
 
@@ -107,7 +107,7 @@ git push <br>
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
 
-![hasilrepository](foto/GitHasil.png)
+![hasilrepository](foto/HasilGit.png)
 
 # Sekian Dan Terima Kasih #
 apabila ada kata kata yang salah dan penulisan saya mohon maaf <br>
